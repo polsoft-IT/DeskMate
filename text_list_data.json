@@ -1,0 +1,48 @@
+{
+  "lang": "en",
+  "theme": "light",
+  "always_on_top": false,
+  "notes_data_path": "C:\\Users\\max\\AppData\\Local\\Temp\\tmp9zud09_l\\notes.json",
+  "tables_save_path": "",
+  "window_hotkey": {
+    "kind": "key",
+    "key": 84,
+    "mods": [
+      67108864,
+      134217728
+    ],
+    "button": null,
+    "double": false,
+    "mmods": []
+  },
+  "notes_hotkey": {
+    "kind": "key",
+    "key": 78,
+    "mods": [
+      67108864,
+      134217728
+    ],
+    "button": null,
+    "double": false,
+    "mmods": []
+  },
+  "last_save_dir": "",
+  "bulk_text": "",
+  "items": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
