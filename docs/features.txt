@@ -1,0 +1,4 @@
+DeskMate v2.7 (Windows 10/11, PyQt6, freeware)
+One always-on-top window: 15 copy-ready text slots, sticky notes,
+app launcher, screen magnifier, script runner, character picker.
+EN/PL UI, dark/light themes, global hotkeys, portable single .exe.
